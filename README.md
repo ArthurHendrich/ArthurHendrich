@@ -1,4 +1,4 @@
-## Olá eu sou Arthur Hendrich! Seja bem vindo ao meu Perfil
+## Hi I'm Arthur Hendrich. Welcome to my profile!
 
 
 <div align="center">
