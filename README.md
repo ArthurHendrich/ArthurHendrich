@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **[Fb Clone](https://github.com/ArthurHendrich/Clone-Facebook)**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and NodeJS**
 
 
 
